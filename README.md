@@ -38,7 +38,7 @@ I'm a beginner front-end developer currently learning web development through Co
 
 ---
 
-> "Learning one line of code at a time."
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSCC240&show_icons=true&theme=default)
 
 
