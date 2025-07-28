@@ -34,7 +34,7 @@ I'm a beginner front-end developer currently learning web development through Co
 
 ## 📫 Contact Me
 - Email: michael.chifwepa@gmail.com
-- [LinkedIn]([https://www.linkedin.com/in/janedoe](https://www.linkedin.com/in/michael-chifwepa-b08081360/))
+- [LinkedIn](https://www.linkedin.com/in/michael-chifwepa-b08081360/)
 
 ---
 
