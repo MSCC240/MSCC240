@@ -4,7 +4,7 @@ I'm a beginner front-end developer currently learning web development through Co
 
 ## 🛠️My Current Skills
 
-- HTML, CSS, Tailwind
+- HTML, CSS, Tailwind, Javascript
 - Git & GitHub
 - Responsive Web Design
 ## 🏆 Soft Skills
@@ -15,7 +15,6 @@ I'm a beginner front-end developer currently learning web development through Co
 - 🚀 Adaptability
 
 ## 🛠️My Future Skills
--   Javascript
 -   Advanced JavaScript
 -   React.js
 -   Vue.js
