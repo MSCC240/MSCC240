@@ -36,6 +36,6 @@ I'm a beginner front-end developer currently learning web development through Co
 ---
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![MSCC240's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSCC240)](https://github.com/MSCC240/github-readme-stats)
 
 
