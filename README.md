@@ -29,7 +29,7 @@ I'm a beginner front-end developer currently learning web development through Co
     
 ## 📌 Pinned Projects
 - [My First Repo](https://github.com/MSCC240/MICCHI25523_FTO2506_A_Michael-Chifwepa_SDF01.git)
-- [My Latest Project](https://github.com/MSCC240/MICCHI25523_FTO2506_A_Michael-Chifwepa_SDF05.git)
+- [My Latest Project](https://github.com/MSCC240/MICCHI25523_FTO2506_A_Michael-Chifwepa_DJSPP.git)
 
 ## 📫 Contact Me
 - Email: michael.chifwepa@gmail.com
