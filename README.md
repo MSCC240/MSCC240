@@ -38,6 +38,6 @@ I'm a beginner front-end developer currently learning web development through Co
 ---
 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSCC240&show_icons=true&theme=default)
+[![MSCC240's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSCC240)](https://github.com/MSCC240/github-readme-stats)
 
 
